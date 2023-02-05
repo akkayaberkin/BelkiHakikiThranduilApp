@@ -1,0 +1,9 @@
+﻿namespace BelkiHakiki.Core.DTOs
+{
+    public abstract class BaseDto
+    {
+        public int Id { get; set; }
+        public Guid? Guid { get; set; }
+        public DateTime CreatedDate { get; set; }
+    }
+}

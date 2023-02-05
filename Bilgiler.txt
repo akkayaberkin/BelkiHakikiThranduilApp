@@ -1,0 +1,3 @@
+db isim => sahidenb_belkihakiki
+db kullanýcý => TesterUser
+db þifre => !364ovj4J
