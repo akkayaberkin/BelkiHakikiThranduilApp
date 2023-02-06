@@ -15,8 +15,8 @@
       "dotnetRunMessages": true,
       "launchBrowser": true,
       "launchUrl": "swagger",
-      "applicationUrl": "http://89.252.185.155/plesk-site-preview/belkihakiki.com.tr",
-      //"applicationUrl": "http://localhost:5264",
+      //"applicationUrl": "https://belkihakiki.com.tr/swagger",
+      "applicationUrl": "http://localhost:5264",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Local" //"Development" / "Local"
       }
